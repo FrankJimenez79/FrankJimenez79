@@ -11,9 +11,7 @@
 
 
 ### 📫 Contacto:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](www.linkedin.com/in/frank-jimenez-barragan-584782352
-
-)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](www.linkedin.com/in/frank-jimenez-barragan-584782352)  
 
 ### 📊 Mis estadísticas en GitHub  
 ![Frank Jimenez GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrankJimenez79&show_icons=true&theme=dark)
